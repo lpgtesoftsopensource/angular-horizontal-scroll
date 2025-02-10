@@ -1,0 +1,64 @@
+.containerParent {
+  width: 500px;
+  display: flex 0 0 auto;
+}
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divNavigationContainer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.containerScrollItems {
+  display: inline-block;
+  width: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.scrollItems {
+  position: relative;
+  height: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  width: 900px;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 60px;
+  margin: 10px;
+  background-color: yellow;
+}
+
+.navigationBunttonIcon {
+  background-color: rgb(63, 81, 181);
+  color: white;
+}
+
+.divBtnNavigation {
+  margin: 10px;
+}
+
+.disabled {
+  background-color: lightseagreen;
+  color: white;
+}
+
+.enabled {
+  background-color: rgb(63, 81, 181);
+  color: white;
+}
