@@ -1,8 +1,8 @@
 # Horizontal Scrolling
 
-Le défilement des objets avec des boutons est un besoins qui peut être utilisé pour plusieurs objectifs.
+Scrolling objects with buttons is a need that can be used for several purposes. 
 <br>
-La solution actuel est implémenté en Angular et qui montre le défilement avec les boutons sans utiliser un logiciel externe.
+The current solution is implemented in Angular and shows the scrolling with buttons without using external software.
 
 **Screenshot**
 
