@@ -1,8 +1,8 @@
 # Horizontal Scrolling
 
-Scrolling objects with buttons is a need that can be used for several purposes. 
+Scrolling objects with buttons can be done in different ways.
 <br>
-The current solution is implemented in Angular and shows the scrolling with buttons without using external software.
+The current solution is implemented in Angular and demonstrates scrolling with buttons without using any external software.
 
 **Screenshot**
 
