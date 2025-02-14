@@ -2,7 +2,7 @@
 
 Scrolling objects with buttons can be done in different ways.
 <br>
-The current solution is implemented in Angular and demonstrates scrolling with buttons without using any external software.
+The current solution is implemented in Angular and demonstrates the scrolling with buttons without using any external software.
 
 **Screenshot**
 
